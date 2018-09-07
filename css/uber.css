@@ -1,0 +1,60 @@
+
+ .head1 {
+    font-size: 32px;
+    font-family: 'Cabin Sketch', cursive;
+  
+}
+
+#para1 {
+    font-family: 'Romanesco', cursive;
+    font-size: 26px;
+}
+
+.card1{
+    margin-top: 150px;
+}
+
+
+.carousel-caption {
+    bottom: 0;
+background: rgba(0, 0, 0, 0.3); /* Black background with 0.5 opacity */
+color: #f1f1f1; /* Grey text */
+margin-bottom: 65px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    
+    }
+    
+    /* Small devices (landscape phones, less than 768px) */
+    @media (max-width: 767.98px) { 
+    
+    }
+    
+    /* Medium devices (tablets, less than 992px) */
+    @media (max-width: 991.98px) { 
+    
+    }
+    
+    /* Large devices (desktops, less than 1200px) */
+    @media (max-width: 1199.98px) { 
+        
+    }
+    

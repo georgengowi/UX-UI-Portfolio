@@ -1,0 +1,100 @@
+
+ h1, h2 {
+   margin-top: 50px;
+   margin-bottom: 35px;
+ }
+
+ .head1 {
+      font-size: 32px;
+      font-family: 'Cabin Sketch', cursive; 
+ }
+
+ .para1 {
+       font-size: 20px;
+ }
+
+ .head3 {
+       
+    margin-bottom: 65px;
+    margin-top: 130px;
+    font-size: 38px;
+    font-weight: bold;  
+ }
+
+.first {
+  
+  background-color: #B4DDE5;
+  padding-top: 15px;
+  padding-left: 25px;
+  margin: 20px;
+
+}
+
+.second {
+  background-color: #A4D7CB;
+  padding-top: 15px;
+  padding-left: 25px;
+  margin: 20px;
+ 
+}
+
+.third {
+  background-color: #A688A0;
+  padding-top: 15px;
+  padding-left: 25px;
+  margin: 20px;
+}
+
+#head4 {
+  margin-top: 100px;
+  margin-bottom: 55px;
+  
+}
+
+.projectbox:hover {
+  /* background-color: lightgrey; */
+  background: rgba(0, 0, 0, 0.20); /* Black background with 0.5 opacity */ 
+}
+
+#uber {
+  text-decoration: none;
+  color: #6D6B6B;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { 
+    
+}
+
+ /* Extra large devices (large desktops) */
+  /* No media query since the extra-large breakpoint has no upper bound on its width */
